@@ -15,7 +15,7 @@ AI是承载文明的陆地，是文发展的基石，它**坚实、可见，代�
 | [**🦪 Oyster**](https://github.com/Alibaba-AAIG/Oyster) | 牡蛎——砂砾进珍珠出 | AI 对齐模型 | 从原始与复杂的需求出发，产出高质量、符合价值观的 AI 输出 |
 | [**🐚 Shells**](https://github.com/alibaba-aaig/shells) | 贝壳——轻量级保护 | 基础护栏 | 在输入与输出的第一道关口进行简单、快速的安全阻拦 |
 | [**🌿 Kelp**](https://github.com/Alibaba-AAIG/Kelp) | 海带——过滤与引导 | 高阶过滤 / 引导 | 动态地过滤内容并引导模型行为至安全路径 |
-| [**🐙 Octopus**](https://github.com/Alibaba-AAIG/Octopus) | 章鱼——八爪多面探测 | 攻击测试套件 | 多维度模拟各种攻击类型，全面检验模型的安全韧性 |
+| [**🐙 Octopus**](https://github.com/Alibaba-AAIG/Octopus) | 章鱼——八爪多面探测 | 测试套件 | 多维度模拟各种评测类型，全面检验模型的安全韧性 |
 | [**💧Jellyfish**](https://github.com/Alibaba-AAIG/Safe-SAIL) | 水母——透明可视化 | 模型可解释性工具 | 解释风险概念神经元 |
 | [你的IDEA]	| 等待命名的安全超能力	|  提交Proposal |  领走Good First Issue |
 
