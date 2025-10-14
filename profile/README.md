@@ -17,7 +17,7 @@ AI是承载文明的陆地，是文发展的基石，它**坚实、可见，代�
 | [**🌿 Kelp**](https://github.com/Alibaba-AAIG/Kelp) | 海带——过滤与引导 | 高阶过滤 / 引导 | 动态地过滤内容并引导模型行为至安全路径 |
 | [**🐙 Octopus Family**](https://github.com/Alibaba-AAIG/Octopus-Family) | 章鱼——八爪多面探测 | 测试套件 | 多维度模拟各种评测类型，全面检验模型的安全韧性 |
 | [**🪼Jellyfish**](https://github.com/Alibaba-AAIG/Safe-SAIL) | 水母——透明可视化 | 模型可解释性框架 | 解释风险概念神经元 |
-| [你的IDEA]	| 等待命名的安全超能力	|  提交Proposal |  领走Good First Issue |
+| [**💧Ascidia**](https://github.com/Alibaba-AAIG/SNCE)	| 海鞘——一触即净，余韵如初	|  单神经元概念擦除框架 |  精准抑制单个语义神经元，如海鞘受扰时定向喷出异物，无损剔除有害内容，完整保留生成之美 |
 
 ## 🐋 为何成为这片海域的「开拓者」？
 - 创造属于自己的「海洋生物」
