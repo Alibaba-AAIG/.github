@@ -16,9 +16,9 @@ AI是承载文明的陆地，是文发展的基石，它**坚实、可见，代�
 | [**🐚 Shells Family**](https://github.com/Alibaba-AAIG/Shells-Family) | 贝壳——轻量级保护 | 基础护栏 | 在输入与输出的第一道关口进行简单、快速的安全阻拦 |
 | [**🌿 Kelp**](https://github.com/Alibaba-AAIG/Kelp) | 海带——过滤与引导 | 高阶过滤 / 引导 | 动态地过滤内容并引导模型行为至安全路径 |
 | [**🐙 Octopus Family**](https://github.com/Alibaba-AAIG/Octopus-Family) | 章鱼——八爪多面探测 | 测试套件 | 构建多维安全评测体系，全面检验模型的安全韧性 |
-| [**🦈 Shark Family**](https://github.com/Alibaba-AAIG/Shark-Family) | 鲨鱼——顶级掠食者 | 越狱攻击工具包 | 精准挖掘模型不同的潜在安全漏洞 |
-| [**🪼Jellyfish**](https://github.com/Alibaba-AAIG/Safe-SAIL) | 水母——透明可视化 | 模型可解释性框架 | 解释风险概念神经元 |
-| [**💧Ascidia**](https://github.com/Alibaba-AAIG/SNCE)	| 海鞘——一触即净，余韵如初	|  单神经元概念擦除框架 |  精准抑制单个语义神经元，如海鞘受扰时定向喷出异物，无损剔除有害内容，完整保留生成之美 |
+| [**🦈 Sharks Family**](https://github.com/Alibaba-AAIG/Shark-Family) | 鲨鱼——顶级掠食者 | 越狱攻击工具包 | 精准挖掘模型不同的潜在安全漏洞 |
+| [**🪼Jellyfish Family**](https://github.com/Alibaba-AAIG/Jellyfish-Family) | 水母——透明可视化 | 模型可解释性框架 | 洞察模型内部的风险概念,精细化地抑制或擦除模型中可能导致不安全行为的特定神经元 |
+| [**你的创意**]	| ~	|  ~ |  ~ |
 
 
 
