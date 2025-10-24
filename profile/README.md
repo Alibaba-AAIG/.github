@@ -6,7 +6,7 @@ AI是承载文明的陆地，是文发展的基石，它**坚实、可见，代�
 
 ## 🐠 安全生态组件
 在我们的安全生态中，每个技术模块以海洋生物命名，寓意它们在生态中的角色和特性，让复杂的安全功能更易理解与记忆。
-![Ocean AI Ecosystem](assets/profile_0.png)`
+![Ocean AI Ecosystem](assets/aaig-sea.png)`
 
 ### 📦 当前成员一览
 
